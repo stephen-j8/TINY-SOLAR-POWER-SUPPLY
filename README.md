@@ -6,7 +6,9 @@ AP3015AKTR-G1 boost converter steps up solar/battery input to 3.3V regulated out
 
 ## Tools Used
 For Simulation-LTSpice
+
 For PCB Layout-KICAD
+
 For Fabrication-JLCPCB
 
 ## Files Included
