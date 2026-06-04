@@ -14,24 +14,40 @@ For Fabrication-JLCPCB
 ## Files Included
    ## GERBER FILES
    /F.Cu.gbr (front copper)
+   
    /B.Cu.gbr (back copper)
+   
    /F.mask.gbr (front solder mask)
-   /B.mask.gbr (back solder mask
+   
+   /B.mask.gbr (back solder mask)
+   
    /F.Silks.gbr (front silkscreen)
+   
    /Edge.Cuts.gbr (Board outline)
+   
    /.drlfiles (drill holes)
+   
    ## KICAD SOURCE FILES
    /.KiCad-Sch (Schmetic File)
+   
    /.KiCad-pcb (PCB Layout File)
+   
    /.KiCad-pro (Project File)
+   
    ## TINY-SOLAR-SUPPLY-PDF
    /Schematic pdf
+   
    /pcb layout pdf
+   
    /CSV file
+   
    /3D PCB file
+   
    ## PROJECT-SCREENSHOTS
    /Schematic
+   
    /3D PCB View
+   
    /Gerber Viewer
    
 ## PCB Preview
@@ -45,8 +61,11 @@ For Fabrication-JLCPCB
 
 ## STATUS
 / Schematic Complete
+
 / PCB Layout Complete
+
 / Gerber Files Generated 
+
 
 ## Author
 STEPHEN.J-PCB Design Engineer
